@@ -1,4 +1,4 @@
 services:
   myapp:
-    image: wil42/playground:v1
+    image: wil42/playground:v2
     restart: always
