@@ -2,3 +2,4 @@ services:
   myapp:
     image: wil42/playground:v2
     restart: always
+    port: 8888
